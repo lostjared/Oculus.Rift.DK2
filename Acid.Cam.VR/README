@@ -1,0 +1,2 @@
+your going to have to edit the Makefile and set the path to the Oculus SDK and also the path to SDL2.
+
